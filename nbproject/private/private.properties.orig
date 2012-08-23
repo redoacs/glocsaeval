@@ -1,0 +1,8 @@
+application.args=A /home/xaltonalli/alignment-metarepo/data-repo/from-BALiBASE/muscle-3.6/bb3_release/rv30/BB30026.fst /home/xaltonalli/alignment-metarepo/data-repo/from-BALiBASE/muscle-3.6/bb3_release/rv30/BB30026.fst.rating
+compile.on.save=false
+do.depend=false
+do.jar=true
+javac.debug=true
+javadoc.preview=true
+jaxws.endorsed.dir=/home/xaltonalli/software-installed/netbeans-6.5.1/java2/modules/ext/jaxws21/api:/home/xaltonalli/software-installed/netbeans-6.5.1/ide10/modules/ext/jaxb/api
+user.properties.file=/home/xaltonalli/.netbeans/6.5/build.properties
